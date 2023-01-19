@@ -1,0 +1,33 @@
+body{
+    background: linear-gradient(to left, rgb(251, 113, 133), rgb(217, 70, 239), rgb(99, 102, 241));
+}
+
+
+.nav-link, .navbar-link{
+    color: white;
+}
+
+.navbar-brand{
+    color: white;
+}
+
+.home-section{
+    height: 93vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.intro-section{
+    text-align: center;
+}
+
+.texto-principal{
+    color: white;
+    font-size: 325%;
+}
+
+.texto-secundario{
+    color: white;
+    font-size: 130%
+}
